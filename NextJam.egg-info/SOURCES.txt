@@ -1,0 +1,7 @@
+README.md
+setup.py
+NextJam.egg-info/PKG-INFO
+NextJam.egg-info/SOURCES.txt
+NextJam.egg-info/dependency_links.txt
+NextJam.egg-info/requires.txt
+NextJam.egg-info/top_level.txt

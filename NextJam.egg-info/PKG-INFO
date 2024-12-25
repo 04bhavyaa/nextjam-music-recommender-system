@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: NextJam
+Version: 0.0.1
+Summary: A package to find your next jam based on your mood
+Author: Bhavya Jha
+Author-email: bhavyajha1404@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: flask
+Requires-Dist: scikit-learn
